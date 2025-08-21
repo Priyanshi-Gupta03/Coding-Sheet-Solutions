@@ -1,5 +1,5 @@
-num=int(input("enter a number"))
-if num % 7 == 0:
-    print("divisible by 7")
+n = int(input("Enter number: "))
+if n % 7 == 0:
+    print("Divisible by 7")
 else:
-    print("not divisible by 7")
+    print("Not divisible by 7")
